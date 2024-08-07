@@ -32,15 +32,15 @@ if not bar:
 return True
 ```
 
-He's is a image![](https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1.)
+Here is a image![](https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1.)
 [He's a link! ](https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1.)
 
 
 |Number|Color|Size|
 |-----:|:----|:--:|
 | 1|Red | 1 |
-| 2|Blue | 3 |
-| 3|Yellow| 4 |
+| 2|Blue | 2|
+| 3|green| 3 |
 
 ```Python
 def my_function():
